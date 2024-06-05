@@ -1,0 +1,6 @@
+schema:
+  - './**/*.graphqls'
+  - '../repo1/**/*.graphqls'
+#  direct link to the schema works
+#  - '../repo1/schema1_1/schema.graphqls'
+#  - '../repo1/schema1_2/schema.graphqls'

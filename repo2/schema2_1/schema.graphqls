@@ -1,0 +1,7 @@
+input TestInput2_1 @annotationFrom1_1 {
+    s: String
+}
+
+input TestInput2_1_2 @annotationFrom1_2 {
+    s: String
+}
